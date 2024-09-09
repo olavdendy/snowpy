@@ -2,7 +2,7 @@ from django.shortcuts import render
 
 def show_main(request):
     context = {
-        'npm' : '2306230590',
+        'app_name' : 'snowpy',
         'name': 'Olav Dendy Christian Manullang',
         'class': 'PBP A'
     }
