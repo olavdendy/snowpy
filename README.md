@@ -6,8 +6,6 @@ SOAL
 
 Jelaskan bagaimana cara kamu mengimplementasikan checklist di atas secara step-by-step (bukan hanya sekadar mengikuti tutorial)
 Mengetahui bahwa: 
-main = direktori aplikasi
-rumai_kedai = direktori project
 
 1. Membuat sebuah proyek Django baru bernama snowpy yang sebelumnya berada di direktori utama snowpy dan terhubung ke direktori github
 2. Membuat direktori aplikasi bernama main
